@@ -1,6 +1,8 @@
 # loaded-http-client
 
-- Simple http server and client
+- This is an ever-evolving repository
+- Currently, implements a simple http server and client
+- It has circuit breaker implemented
 - Run server in one instance of terminal
 ```
 $make run_server
